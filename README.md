@@ -111,4 +111,7 @@ JS, CSS Library
 + [bootstrap-v3.3.4.css](./bootstrap-v3.3.4/css/bootstrap.min.css)
 + [bootstrap-theme-v3.3.4.css](./bootstrap-v3.3.4/css/bootstrap-theme.min.css)
 + [bootstrap-v3.3.4.js](./bootstrap-v3.3.4/js/bootstrap.min.js)
++ [toastr-v2.1.4](./toastr-v2.1.4/toastr.min.js)
++ [vue-color-v2.7.1](./vue-color-v2.7.1/vue-color.min.js)
++ [vue-v2.6.11](./vue-v2.6.11/vue.min.js)
 
