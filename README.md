@@ -3,6 +3,7 @@ JS, CSS Library
 
 + [font-awesome-4.6.3](./font-awesome-4.6.3/css/font-awesome.min.css)
 + [font-awesome-5.13.0](./font-awesome-5.13.0/css/all.min.css)
++ [tailwind-v2.2.19](./tailwind-v2.2.19/tailwind.min.css)
 + [simple-line-icons.min.css](./simple-line-icons/css/simple-line-icons.min.css)
 + [animation.gsap.min.js](./gsap/animation.gsap.min.js)
 + [animation.velocity.min.js](./gsap/animation.velocity.min.js)
