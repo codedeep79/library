@@ -5,6 +5,7 @@ JS, CSS Library
 + [font-awesome-5.13.0](./font-awesome-5.13.0/css/all.min.css)
 + [tailwind-v2.2.19](./tailwind-v2.2.19/tailwind.min.css)
 + [simple-line-icons.min.css](./simple-line-icons/css/simple-line-icons.min.css)
++ [normalize-v5.0.0](./normalize-v5.0.0/normalize.min.css)
 + [animejs-v3.2.1](./animejs-v3.2.1/anime.min.js)
 + [babylon-max-v5.0.0-beta.5](./babylonjs-v5.0.0-beta.5/babylon.max.min.js)
 + [babylonjs-v5.0.0-beta.5](./babylonjs-v5.0.0-beta.5/babylon.min.js)
@@ -115,4 +116,5 @@ JS, CSS Library
 + [toastr.js-v2.1.4](./toastr-v2.1.4/js/toastr.min.js)
 + [vue-color-v2.7.1](./vue-color-v2.7.1/vue-color.min.js)
 + [vue-v2.6.11](./vue-v2.6.11/vue.min.js)
+
 
