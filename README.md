@@ -116,5 +116,9 @@ JS, CSS Library
 + [toastr.js-v2.1.4](./toastr-v2.1.4/js/toastr.min.js)
 + [vue-color-v2.7.1](./vue-color-v2.7.1/vue-color.min.js)
 + [vue-v2.6.11](./vue-v2.6.11/vue.min.js)
++ [dat-gui-v0.7.7](./dat-gui-v0.7.7/dat.gui.min.js)
++ [splitting-css-v1.0.6](./splitting-v1.0.6/css/splitting.min.css)
++ [splitting-cells-css-v1.0.6](./splitting-v1.0.6/css/splitting-cells.min.css)
++ [splitting-js-v1.0.6](./splitting-v1.0.6/js/splitting.min.js)
 
 
