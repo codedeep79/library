@@ -127,3 +127,4 @@ JS, CSS Library
 - [splitting-css-v1.0.6](./splitting-v1.0.6/css/splitting.min.css)
 - [splitting-cells-css-v1.0.6](./splitting-v1.0.6/css/splitting-cells.min.css)
 - [splitting-js-v1.0.6](./splitting-v1.0.6/js/splitting.min.js)
+- [feather-icons-v4.28.0](./feather-icons-v4.28.0/feather.min.js)
