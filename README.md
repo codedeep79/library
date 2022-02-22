@@ -129,6 +129,8 @@ JS, CSS Library
 - [splitting-js-v1.0.6](./splitting-v1.0.6/js/splitting.min.js)
 - [feather-icons-v4.28.0](./feather-icons-v4.28.0/feather.min.js)
 - [reset.min.css](./reset/reset.min.css)
+- [ionicons.min.css](./ionicons/ionicons.min.css)
+
 ## Fonts
 + [Decovar-VF](./fonts/Decovar-VF.ttf)
 + [Modak](./fonts/Modak-Regular.ttf)
