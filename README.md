@@ -131,3 +131,4 @@ JS, CSS Library
 
 ## Fonts
 + [Decovar-VF](./fonts/Decovar-VF.ttf)
++ [Modak](./fonts/Modak-Regular.ttf)
