@@ -128,3 +128,6 @@ JS, CSS Library
 - [splitting-cells-css-v1.0.6](./splitting-v1.0.6/css/splitting-cells.min.css)
 - [splitting-js-v1.0.6](./splitting-v1.0.6/js/splitting.min.js)
 - [feather-icons-v4.28.0](./feather-icons-v4.28.0/feather.min.js)
+
+## Fonts
++ [Decovar-VF](./fonts/Decovar-VF.ttf)
