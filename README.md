@@ -4,6 +4,7 @@ JS, CSS Library
 
 - [font-awesome-4.6.3](./font-awesome-4.6.3/css/font-awesome.min.css)
 - [font-awesome-5.13.0](./font-awesome-5.13.0/css/all.min.css)
+- [fontawesomekit](./fontawesomekit/fontawesomekit.min.js)
 - [aqua.css-v1.5.0](./aqua.css-v1.5.0/aqua.min.css)
 - [tailwind-v2.2.19](./tailwind-v2.2.19/tailwind.min.css)
 - [simple-line-icons.min.css](./simple-line-icons/css/simple-line-icons.min.css)
