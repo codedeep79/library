@@ -3,6 +3,7 @@
 JS, CSS Library
 
 - [d3.js](./d3/d3.min.js)
+- [d3.v3.js](./d3/d3.v3.min.js)
 - [p5.js](./p5/p5.min.js)
 - [pop.svg](./pop.svg/pop.svg.js)
 - [apexcharts](./apexcharts/apexcharts.min.js)
