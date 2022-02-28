@@ -2,6 +2,7 @@
 
 JS, CSS Library
 
+- [apexcharts](./apexcharts/apexcharts.min.js)
 - [font-awesome-4.6.3](./font-awesome-4.6.3/css/font-awesome.min.css)
 - [font-awesome-5.13.0](./font-awesome-5.13.0/css/all.min.css)
 - [fontawesomekit](./fontawesomekit/fontawesomekit.min.js)
