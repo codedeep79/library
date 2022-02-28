@@ -2,6 +2,8 @@
 
 JS, CSS Library
 
+- [d3.js](./d3/d3.min.js)
+- [p5.js](./p5/p5.min.js)
 - [pop.svg](./pop.svg/pop.svg.js)
 - [apexcharts](./apexcharts/apexcharts.min.js)
 - [font-awesome-4.6.3](./font-awesome-4.6.3/css/font-awesome.min.css)
