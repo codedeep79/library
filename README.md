@@ -142,9 +142,12 @@ JS, CSS Library
 - [splitting-js-v1.0.6](./splitting-v1.0.6/js/splitting.min.js)
 - [feather-icons-v4.28.0](./feather-icons-v4.28.0/feather.min.js)
 - [snap.svg](./snap.svg/snap.svg-min.js)
+- [tsparticles](./tsparticles/tsparticles.min.js)
+- [pathseg](./pathseg/pathseg.min.js)
 - [reset.min.css](./reset/reset.min.css)
 - [ionicons.min.css](./ionicons/ionicons.min.css)
-- [icons.css](./icons/icons.css)
+- [icons.css](./icons/icons.css
+- [zingchart](./zingchart/zingchart.min.js)
 
 ## Fonts
 + [Decovar-VF](./fonts/Decovar-VF.ttf)
