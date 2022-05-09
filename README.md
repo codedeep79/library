@@ -150,6 +150,7 @@ JS, CSS Library
 - [ionicons.min.css](./ionicons/ionicons.min.css)
 - [icons.css](./icons/icons.css
 - [zingchart](./zingchart/zingchart.min.js)
+- [Stats](./stats/stats.min.js)
 
 ## Fonts
 + [Decovar-VF](./fonts/Decovar-VF.ttf)
