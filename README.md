@@ -119,6 +119,8 @@ JS, CSS Library
 - [UCSCharacter.js](./threejs/UCSCharacter.js)
 - [Volume.js](./threejs/Volume.js)
 - [VolumeSlice.js](./threejs/VolumeSlice.js)
+- [THREEx.WindowResize.js](./threejs/THREEx.WindowResize.js)
+- [ColladaLoader.js](./threejs/ColladaLoader.js)
 - [lodash.js](./lodash.js/lodash.min.js)
 - [bootstrap-v3.3.4.css](./bootstrap-v3.3.4/css/bootstrap.min.css)
 - [bootstrap-theme-v3.3.4.css](./bootstrap-v3.3.4/css/bootstrap-theme.min.css)
